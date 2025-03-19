@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:.
 🔭 I’m currently Learning about Web Developer<br><br>🌱 I’m currently learning PHP, React , NodeJs<br><br>🤝 I’m looking to collaborate on Web Development<br><br>👨‍💻 All of my projects are available at https://portofolio-laoderaihanpratama.netlify.app/<br><br>💬 Ask me about Html, Css, JavaScript, MySql<br><br>📫 How to reach me laoderaihanpratama@gmail.com<br><br>📄 Know about my experiences www.linkedin.com/in/laoderaihanpratama<br><br>⚡ Fun fact Im A Designer & I like volunteering
 
 
