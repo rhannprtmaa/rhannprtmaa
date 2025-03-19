@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=calibri&size=35&pause=1000&color=2C83FF&center=true&width=500&lines=Hi+There+%F0%9F%91%8B;I'm+Ahsan)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=calibri&size=35&pause=1000&color=2C83FF&center=true&width=500&lines=Raihan+Pratama)](https://git.io/typing-svg)
   ### 💡 Tech Enthusiast | Software Developer  
 
   🔹 Passionate about **Software Development & AI**  
