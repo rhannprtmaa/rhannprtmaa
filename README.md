@@ -9,7 +9,7 @@
   
 
   <p>
-    <a href="https://instagram.com/a.ahzr">
+    <a href="https://www.instagram.com/rhannprtmaa/">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/laoderaihanpratama">
