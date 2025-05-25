@@ -3,7 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=calibri&size=35&pause=1000&color=2C83FF&center=true&width=500&lines=Raihan+Pratama)](https://git.io/typing-svg)
   ### 💡 Tech Enthusiast | Software Developer  
 
-  🔹 Passionate about **Software Development & AI**  
+  🔹 Passionate about **Software Development & UI/UX**  
   🔹 Always learning & building impactful solutions  
 
   
